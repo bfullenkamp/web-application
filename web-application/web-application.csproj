@@ -130,9 +130,6 @@
     <Content Include="User_Login_CS.csproj">
       <SubType>Designer</SubType>
     </Content>
-    <Content Include="User_Login_CS.csproj.user">
-      <SubType>Designer</SubType>
-    </Content>
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
